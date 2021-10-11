@@ -1,5 +1,4 @@
 ## 📘 이분그래프
-</br>
 💡 이분그래프란?
 <p align="center"><img src="https://user-images.githubusercontent.com/45066381/136502673-d7bf0cfe-68d1-4988-8f31-fcfeb36f0dd3.png" width="700" height="300"/></p>
 
