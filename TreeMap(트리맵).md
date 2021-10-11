@@ -1,6 +1,4 @@
 ## 📘 TreeMap(트리맵)
-<br/>
-
 💡 트리맵(TreeMap)이란?
 <p align="center"><img src="https://user-images.githubusercontent.com/45066381/136732237-297e174d-0a77-4bc9-bf41-855ff8e0f876.png" width="600" height="300"/></p>
     
