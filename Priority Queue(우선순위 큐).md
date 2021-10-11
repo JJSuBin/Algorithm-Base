@@ -1,6 +1,4 @@
 ## 📘 Priority Queue(우선순위 큐)
-</br>
-
 💡 우선순위 큐(Priority Queue)란?
     
     ◻️ 일반적인 큐의 구조 FIFO(First In First Out)를 가지지만, 데이터가 들어온 순서대로 데이터가 가는 것이 아닌
